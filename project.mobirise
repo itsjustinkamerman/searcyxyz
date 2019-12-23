@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "Searcy Designs",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -39,17 +39,26 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 5,
-    "versionPublish": "4.11.6"
+    "versionPublish": "4.11.6",
+    "favicon": "@PROJECT_PATH@/assets/images/20181116212054-733-mascotorig-128x141.png",
+    "noImageResize": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "SEARCY.XYZ",
+        "meta_descr": "Website owned by Justin Kamerman",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/20181116212054_733_mascotorig-825x908.png"
       },
       "components": [
         {
