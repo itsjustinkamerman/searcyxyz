@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-24_0134",
-    "currentPage": "contact.html",
+    "currentPage": "business.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -13,13 +13,38 @@
     "siteFonts": [],
     "uniqCompNum": 17,
     "versionPublish": "4.11.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
+      "textButton": "Agree"
+    },
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
+    "robotsSwitcher": false,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "sitemapSwitcher": false,
+    "siteUrl": false,
+    "sitemapSwitcherAuto": "on",
+    "noImageResize": true,
+    "favicon": "@PROJECT_PATH@/assets/images/dowtownsearcy1-1.jpg"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "SEARCY - Home",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -34,7 +59,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dowtownsearcy1-1.jpeg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -42,13 +67,13 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
           "title": "Welcome to SEARCY!",
-          "text": "Want a Searcy Graduation T-Shirt? Click \"<b>Designs</b>\" - <b>!!!NOT AVAILABLE!!!</b><br>Want to see the different businesses in Searcy? Click \"<b>Business</b>\"",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Designs<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"business.html\" data-toolbar=\"-mbrBtnMove\">Business</a>",
+          "text": "To get started, click \"BUSINESS\"",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"business.html\" data-toolbar=\"-mbrBtnMove\">Business</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -59,7 +84,7 @@
         {
           "_params": {
             "logo": false,
-            "showBrand": false,
+            "showBrand": true,
             "showButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -72,10 +97,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/dowtownsearcy1-1.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -83,7 +109,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mobirise</a>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Searcy, AR</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -107,7 +133,7 @@
         {
           "_params": {
             "logo": false,
-            "showBrand": false,
+            "showBrand": true,
             "showButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -120,10 +146,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/dowtownsearcy1-1.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -131,7 +158,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mobirise</a>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Searcy, AR</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -204,7 +231,7 @@
         },
         {
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showMeta": false,
             "showText": true,
             "showButtons": true,
@@ -246,7 +273,7 @@
               "size": 0
             }
           },
-          "title": "Searcy Chiropractor",
+          "title": "",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>More information is on their website:<br><a href=\"https://searcychiropractor.com\">https://www.searcychiropeactor.com</a></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://instagram.com/searcychiropractor\" data-toolbar=\"-mbrBtnMove\">Instagram</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://facebook.com/chiropracticcareclinic\" data-toolbar=\"-mbrBtnMove\">Facebook</a>",
@@ -260,7 +287,7 @@
         {
           "_params": {
             "logo": false,
-            "showBrand": false,
+            "showBrand": true,
             "showButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -273,10 +300,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/dowtownsearcy1-1.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -284,7 +312,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Mobirise</a>",
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Searcy, AR</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
