@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-24_0134",
-    "currentPage": "business.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -31,7 +31,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showArrow": true,
+            "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-1.jpg",
@@ -47,7 +47,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Welcome to SEARCY!",
-          "text": "Want a Searcy Graduation T-Shirt? Click \"Designs\" - <b>Currently not available at the moment</b><br>Want to see the different businesses in Searcy? Click \"Business\"",
+          "text": "Want a Searcy Graduation T-Shirt? Click \"<b>Designs</b>\" - <b>!!!NOT AVAILABLE!!!</b><br>Want to see the different businesses in Searcy? Click \"<b>Business</b>\"",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Designs<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"business.html\" data-toolbar=\"-mbrBtnMove\">Business</a>",
           "alias": "purity/components",
           "_tags": [
