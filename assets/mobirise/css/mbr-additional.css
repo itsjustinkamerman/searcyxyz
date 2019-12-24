@@ -1,31 +1,15 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-
-#menu-0 .navbar-toggler {
-  color: #ffffff;
-}
-#menu-0 .nav-link {
-  font-family: 'Montserrat', sans-serif;
-}
-#footer1-1 P {
-  text-align: center;
-}
-
-#menu-4 .navbar-toggler {
-  color: #ffffff;
-}
-#menu-4 .nav-link {
-  font-family: 'Montserrat', sans-serif;
-}
-#footer1-5 P {
-  text-align: center;
-}
-
-#menu-7 .navbar-toggler {
-  color: #ffffff;
-}
-#menu-7 .nav-link {
-  font-family: 'Montserrat', sans-serif;
+#menu-f .navbar-toggler {
+  color: #000;
 }
 #footer1-8 P {
   text-align: center;
+}
+#menu-f .navbar-toggler {
+  color: #000;
+}
+#footer1-b P {
+  text-align: center;
+}
+#menu-f .navbar-toggler {
+  color: #000;
 }
