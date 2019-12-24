@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-24_0134",
-    "currentPage": "business.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -149,7 +149,7 @@
           "form": {
             "action": "justin@searcy.xyz",
             "alerts": {
-              "success": "Thanks you for contacting!\nWe will respond as soon as possible!"
+              "success": "Thank you for contacting!\nWe will respond as soon as possible!"
             },
             "fields": {
               "name": {
@@ -165,7 +165,7 @@
               "phone": {
                 "visible": true,
                 "title": "Phone",
-                "customTitle": "Phone"
+                "customTitle": "Phone*"
               },
               "message": {
                 "title": "Message",
