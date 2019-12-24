@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-12-24_0134",
-    "currentPage": "index.html",
+    "currentPage": "business.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -48,7 +48,7 @@
           },
           "title": "Welcome to SEARCY!",
           "text": "Want a Searcy Graduation T-Shirt? Click \"Designs\" - <b>Currently not available at the moment</b><br>Want to see the different businesses in Searcy? Click \"Business\"",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Designs<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"business.html\" data-toolbar=\"-mbrBtnMove\">Business</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info-outline btn-info\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Designs<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"business.html\" data-toolbar=\"-mbrBtnMove\">Business</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -333,7 +333,7 @@
           "title": "Searcy Chiropractor",
           "meta": "By John Smith posted July 30, 2015",
           "text": "<p>More information is on their website:<br><a href=\"https://searcychiropractor.com\">https://www.searcychiropeactor.com</a></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://instagram.com/searcychiropractor\" data-toolbar=\"-mbrBtnMove\">Instagram</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://instagram.com/searcychiropractor\" data-toolbar=\"-mbrBtnMove\">Facebook</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://instagram.com/searcychiropractor\" data-toolbar=\"-mbrBtnMove\">Instagram</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://facebook.com/chiropracticcareclinic\" data-toolbar=\"-mbrBtnMove\">Facebook</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
