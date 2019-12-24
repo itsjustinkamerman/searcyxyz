@@ -137,7 +137,7 @@
                 "customTitle": "Email*"
               },
               "phone": {
-                "visible": true,
+                "visible": false,
                 "title": "Phone",
                 "customTitle": "Phone*"
               },
