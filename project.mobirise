@@ -11,7 +11,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.6",
     "siteFonts": [],
-    "uniqCompNum": 16,
+    "uniqCompNum": 17,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png"
   },
@@ -106,56 +106,6 @@
       "components": [
         {
           "_params": {
-            "showTitle": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Contact Form",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary-outline\">Contact Us</a>",
-          "form": {
-            "action": "justin@searcy.xyz",
-            "alerts": {
-              "success": "Thank you for contacting!\nWe will respond as soon as possible!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": false,
-                "title": "Phone",
-                "customTitle": "Phone*"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_anchor": "form1-9"
-        },
-        {
-          "_params": {
             "logo": false,
             "showBrand": false,
             "showButtons": false,
@@ -191,6 +141,24 @@
           "_styles": {
             ".navbar-toggler": {
               "color": "#5bc0de"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Contact the Searcy.XYZ Owner!",
+          "meta": "Please email support@searcy.xyz if you'd like to be on our \"Business\" page or buy a T-Shirt!<br>Also, let us know what you think about our website!<br>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-g",
+          "_styles": {
+            "SMALL": {
+              "font-size": "21px"
             }
           }
         }
